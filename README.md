@@ -34,7 +34,7 @@ MovieWorld is a social sharing platform where users can share their favorite mov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movieworld.git
+   git clone https://github.com/kmvkos-tech/movie-world-api.git
    cd movieworld
    ```
 
